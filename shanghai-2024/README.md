@@ -2,7 +2,6 @@
 
 - Link: https://www.oschina.net/event/2333293
 - Live photo: https://live.photoplus.cn/live/pc/46254168#/live
-- T-shirt design: https://github.com/PyTorch-China/pytorch-meetup/shanghai-2024
 
 
 ### 议程安排：
